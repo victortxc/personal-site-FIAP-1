@@ -11,15 +11,17 @@
 <p align="center">
   <img  src="https://img.shields.io/static/v1?label=license&message=MIT&color=FFFFFF&labelColor=32B768" alt="License">
   
-  <img src="https://img.shields.io/github/forks/victortxc/challenge_3_shopping_cart?label=forks&message=MIT&color=FFFFFF&labelColor=32B768" alt="Forks">
+  <img src="https://img.shields.io/github/forks/victortxc/personal-site-FIAP-1
+?label=forks&message=MIT&color=FFFFFF&labelColor=32B768" alt="Forks">
 
-  <img src="https://img.shields.io/github/stars/victortxc/challenge_3_shopping_cart?label=stars&message=MIT&color=FFFFFF&labelColor=32B768" alt="Stars">
+  <img src="https://img.shields.io/github/stars/victortxc/personal-site-FIAP-1
+?label=stars&message=MIT&color=FFFFFF&labelColor=32B768" alt="Stars">
 </p>
 
 <br>
 
 <div align="center">
-  <img alt="personalsite" src="src/assets/images/rocketshoes.png">
+  <img alt="personalsite" src="./images/readme.png">
 </div>
 
 ---
